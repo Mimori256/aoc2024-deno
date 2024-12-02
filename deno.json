@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "setup": "deno run --allow-all setup.ts",
+    "run": "deno run --allow-all run.ts"
+  }
+}
